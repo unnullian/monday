@@ -1,8 +1,6 @@
-title: Wendell Thomas
+title: GOTO First Page
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  dd
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
@@ -19,7 +17,7 @@ email: unknown90420@naver.com # Add your Email address
 phone: 010 9310 6215 # Add your Phone number
 website: unnullian.github.io # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
-github: unnullian.github.io # Add your Github handle
+github: unnullian # Add your Github handle
 twitter:  # Add your Twitter handle
 
 # Tracker
