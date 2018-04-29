@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "왜 블로그를 시작하게 됐는가?.. GIT배우자!"
 description: 깃허브 아주 초급만 적응해보기!
 img:
 date: 2017-04-28  +0200
