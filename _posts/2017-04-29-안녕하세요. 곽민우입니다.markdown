@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Sample Post"
-description: Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit Sed Do Eiusmod Tempor Incidi
+title:  "이이잉"
+description: 하하하 나의 첫번째 게시글이야!
 img:
 date: 2017-03-07  +0200
 ---
