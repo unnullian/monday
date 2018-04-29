@@ -50,3 +50,5 @@ exclude:
   - Gemfile.lock
 
 include: [_pages]
+
+disqus-shortname: unnullian
