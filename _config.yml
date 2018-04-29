@@ -11,8 +11,7 @@ blog_theme: dark # Or use dark
 # Profile information
 name: GOTO First Page
 tagline: Welcome! Minwoo Kwak's Blog!
-about-description: I wanna share my Page. I wish you get useful information.
-<br>Also, If you wanna know me, Please watching DATAs I have been posted up.  # Add Discription
+about-description: I wanna share my Page. I wish you get useful information.<br>Also, If you wanna know me, Please watching DATAs I have been posted up.  # Add Discription
 pic: lover_duck.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
