@@ -22,3 +22,5 @@ layout: default
     {% include disqus.html %}
   </div>
 </div>
+
+{% if site.disqus-shortname %}{% include disqus.html %}{% endif %}
