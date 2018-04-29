@@ -4,14 +4,13 @@ title:  ""
 description: 하하하 나의 첫번째 게시글이야!
 img:
 date: 2017-04-28  +0200
----
-<center>
+
+
 안녕하세요 곽민우입니다.<br>
 저는 3월 13일부터 후배들에게<br>
 `GIT` 과 `아두이노` 에 대해서<br>
 학교를 졸업하기 전에 알려주고 같이 공부해보기로<br>
 결심했기 때문에.. 블로그 포스팅 시작합니다!<br>
-</center>
 
 
 
@@ -39,3 +38,5 @@ date: 2017-04-28  +0200
 <div align="center">
 <img src="../img/2018-04-02/11.jpg" style="width: 300px">
 </div>
+
+![대체텍스트](../img/2018-04-02/11.jpg") {.aligncenter}
