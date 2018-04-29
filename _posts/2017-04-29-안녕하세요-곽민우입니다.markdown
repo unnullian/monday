@@ -5,7 +5,7 @@ description: 하하하 나의 첫번째 게시글이야!
 img:
 date: 2017-04-28  +0200
 ---
-
+<br><br>
 
 <div align="center">
     안녕하세요 곽민우입니다.<br>
@@ -14,7 +14,11 @@ date: 2017-04-28  +0200
     <font color="yellow"> 아두이노</font> 에 대해서<br>
     학교를 졸업하기 전에 알려주고 같이 공부해보기로<br>
     결심했기 때문에.. 이왕 이렇게 된거 블로그 포스팅 시작합니다!<br> (논리가 좀 안맞는듯)
-</div><br><br><br><br>
+</div>
+<br>
+<br>
+<br>
+<br>
 
 
 
@@ -29,8 +33,12 @@ date: 2017-04-28  +0200
     이 GIT이 인터넷과 연결되어<br>
     전세계 사람들과 자료를 공유할 수 있습니다.<br>
     그 연결해주는 서비스중 하나가 GitHub라는 서비스이고요.
-    SourceTree 라는 것도 있긴 한데,<br> 저는 GitHub만 써서 패스..ㅎ<br><br>
+    SourceTree 라는 것도 있긴 한데,<br> 저는 GitHub만 써서 패스..ㅎ
 </div>
+<br>
+<br>
+<br>
+<br>
 
 <div align="center">
     <H1> #2. 거두절미하고 깃을 사용해보자-다운로드 </H1><br>
@@ -52,6 +60,11 @@ date: 2017-04-28  +0200
     친숙해지기 ㄱㄱ링?<br>
     설치 완료! <br>
 </div>
+<br>
+<br>
+<br>
+<br>
+
 
 <div align = "center">
  <H1> #3. GIT 저장소를 만들고 GIThub에 연동하자 </H1>
@@ -60,6 +73,11 @@ date: 2017-04-28  +0200
  2. mkdir GIT <br>
  3. cd GIT <br>
 </div>
+<br>
+<br>
+<br>
+<br>
+
 
 <div>
 
