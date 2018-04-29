@@ -36,7 +36,9 @@ date: 2017-04-28  +0200
 <H1> #2. 거두절미하고 깃을 사용해보자 </H1><br>
 기본적으로 git이라고 구글에 검색하면<br>
 사이트 하나가 나옵니다 (git-scm.com)<br><br>
+<a href="../img/git/캡처.PNG">
 <img src="../img/git/캡처.PNG" style="width: 300px" alt="../img/git/캡처.PNG"><br><br>
+</a>
 설치 파일을 운영체제에 맞게 받으시면 되구요<br>
 다운 받으시고 추가 설정 하실 필요 없이<br>
 next next 신공을 발휘하여 설치합니다<br>
