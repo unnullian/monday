@@ -13,7 +13,7 @@ date: 2017-04-28  +0200
     <font color="yellow"> GIT</font> 과 
     <font color="yellow"> 아두이노</font> 에 대해서<br>
     학교를 졸업하기 전에 알려주고 같이 공부해보기로<br>
-    결심했기 때문에.. 블로그 포스팅 시작합니다!<br>
+    결심했기 때문에.. 이왕 이렇게 된거 블로그 포스팅 시작합니다!<br> (논리가 좀 안맞는듯)
 </div><br><br><br><br>
 
 
@@ -37,15 +37,15 @@ date: 2017-04-28  +0200
     기본적으로 git이라고 구글에 검색하면<br>
     사이트 하나가 나옵니다 (git-scm.com)<br><br>
     <a href="../img/git/캡처.PNG">
-    <img src="../img/git/캡처.PNG" style="width: 500px" alt="../img/git/캡처.PNG"><br><br>
+    <img src="../img/git/캡처.PNG" style="width: 500px" alt="../img/git/캡처.PNG">[이미지1 - GIT 홈페이지]<br><br>
     </a>
     설치 파일을 운영체제에 맞게 받으시면 되구요<br>
     다운 받으시고 추가 설정 하실 필요 없이<br>
     next next 신공을 발휘하여 설치합니다<br><br>
     
-    그럼 GIT BASH 라는 것이 생성됐을겁니다. <br>
+    그럼 GIT BASH 라는 것이 생성됐을겁니다. <br><br>
     <a href="../img/git/bash.PNG">
-    <img src="../img/git/bash.PNG" style="width: 500px" alt=""><br><br>
+    <img src="../img/git/bash.PNG" style="width: 500px" alt="">[이미지2 - GIT BASH]<br><br>
     </a>
     실행하시면 나오는 화면인데, 우리는 이 화면으로<br>
     설정과 제어를 할 것입니다.<br>
