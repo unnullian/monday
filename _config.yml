@@ -11,16 +11,16 @@ blog_theme: dark # Or use dark
 # Profile information
 name: GOTO First Page
 tagline: Welcome! Minwoo Kwak's Blog!
-about-description: ddddddddddddddddddddddd # Add Discription
+about-description: I wanna share my Page. <br>I wish you get useful information. # Add Discription
 pic: lover_duck.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
 email: unknown90420@naver.com # Add your Email address
 phone: 010 9310 6215 # Add your Phone number
 website: unnullian.github.io # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
+linkedin: NULL # Add your Linkedin handle
 github: unnullian # Add your Github handle
-twitter:  # Add your Twitter handle
+twitter: NULL # Add your Twitter handle
 
 # Tracker
 analytics:
