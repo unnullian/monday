@@ -26,22 +26,37 @@ date: 2017-04-28  +0200
     효율적이게 관리할 수 있는 저장 장소라고<br>
     정의 내리고 싶습니다.<br><br>
 
-    이 GIT은 인터넷과 연결되어<br>
-    전세계 사람들이 자신들의 자료를 공유할 수 있습니다.<br>
-    그 서비스중 하나가 GitHub라는 서비스이고요.
+    이 GIT이 인터넷과 연결되어<br>
+    전세계 사람들과 자료를 공유할 수 있습니다.<br>
+    그 연결해주는 서비스중 하나가 GitHub라는 서비스이고요.
     SourceTree 라는 것도 있긴 한데,<br> 저는 GitHub만 써서 패스..ㅎ<br><br>
 </div>
 
 <div align="center">
-<H1> #2. 거두절미하고 깃을 사용해보자 </H1><br>
-기본적으로 git이라고 구글에 검색하면<br>
-사이트 하나가 나옵니다 (git-scm.com)<br><br>
-<a href="../img/git/캡처.PNG">
-<img src="../img/git/캡처.PNG" style="width: 300px" alt="../img/git/캡처.PNG"><br><br>
-</a>
-설치 파일을 운영체제에 맞게 받으시면 되구요<br>
-다운 받으시고 추가 설정 하실 필요 없이<br>
-next next 신공을 발휘하여 설치합니다<br>
+    <H1> #2. 거두절미하고 깃을 사용해보자-다운로드 </H1><br>
+    기본적으로 git이라고 구글에 검색하면<br>
+    사이트 하나가 나옵니다 (git-scm.com)<br><br>
+    <a href="../img/git/캡처.PNG">
+    <img src="../img/git/캡처.PNG" style="width: 500px" alt="../img/git/캡처.PNG"><br><br>
+    </a>
+    설치 파일을 운영체제에 맞게 받으시면 되구요<br>
+    다운 받으시고 추가 설정 하실 필요 없이<br>
+    next next 신공을 발휘하여 설치합니다<br><br>
+    
+    그럼 GIT BASH 라는 것이 생성됐을겁니다. <br>
+    <a href="../img/git/bash.PNG">
+    <img src="../img/git/bash.PNG" style="width: 500px" alt=""><br><br>
+    </a>
+    실행하시면 나오는 화면인데, 우리는 이 화면으로<br>
+    설정과 제어를 할 것입니다.<br>
+    친숙해지기 ㄱㄱ링?<br>
+    설치 완료! <br>
+</div>
+
+<div>
+ <H1> #2. GIT 저장소를 만들고 GIThub에 연동하자 </H1>
+</div>
+
 <div>
 
 
