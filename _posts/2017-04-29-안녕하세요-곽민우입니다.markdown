@@ -37,7 +37,7 @@ date: 2017-04-28  +0200
     기본적으로 git이라고 구글에 검색하면<br>
     사이트 하나가 나옵니다 (git-scm.com)<br><br>
     <a href="../img/git/캡처.PNG">
-    <img src="../img/git/캡처.PNG" style="width: 500px" alt="../img/git/캡처.PNG">[이미지1 - GIT 홈페이지]<br><br>
+    <img src="../img/git/캡처.PNG" style="width: 500px" alt="../img/git/캡처.PNG"><br>[이미지1 - GIT 홈페이지]<br><br>
     </a>
     설치 파일을 운영체제에 맞게 받으시면 되구요<br>
     다운 받으시고 추가 설정 하실 필요 없이<br>
@@ -45,7 +45,7 @@ date: 2017-04-28  +0200
     
     그럼 GIT BASH 라는 것이 생성됐을겁니다. <br><br>
     <a href="../img/git/bash.PNG">
-    <img src="../img/git/bash.PNG" style="width: 500px" alt="">[이미지2 - GIT BASH]<br><br>
+    <img src="../img/git/bash.PNG" style="width: 500px" alt=""><br>[이미지2 - GIT BASH]<br><br>
     </a>
     실행하시면 나오는 화면인데, 우리는 이 화면으로<br>
     설정과 제어를 할 것입니다.<br>
@@ -53,31 +53,13 @@ date: 2017-04-28  +0200
     설치 완료! <br>
 </div>
 
-<div>
- <H1> #2. GIT 저장소를 만들고 GIThub에 연동하자 </H1>
+<div align = "center">
+ <H1> #3. GIT 저장소를 만들고 GIThub에 연동하자 </H1>
+ 저는 D드라이브 에다가 GIT으로 사용할 폴더를 만들겠습니다.
+ 1. cd /D <br>
+ 2. mkdir GIT <br>
+ 3. cd GIT <br>
 </div>
 
 <div>
 
-
-
-* 머리
-	* 코
-		* 입
-        
-
-+ 머리
-  + 코
-    + 입
-
-1. ㅇㅇ
-	2.	33
-		
-
-깃허브에 으어어어어어22222ㅇasd
-=======================
-<div align="center">
-<img src="../img/2018-04-02/11.jpg" style="width: 300px">
-</div>
-
-![대체텍스트](../img/2018-04-02/11.jpg") {.aligncenter}
