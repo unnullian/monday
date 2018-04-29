@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  ""
-description: 하하하 나의 첫번째 게시글이야!
+description: 깃허브 아주 초급만 적응해보기!
 img:
 date: 2017-04-28  +0200
 ---
@@ -68,15 +68,17 @@ date: 2017-04-28  +0200
 
 <div align = "center">
  <H1> #3. GIT 저장소를 만들고 GIThub에 연동하자 </H1>
- 저는 D드라이브 에다가 GIT으로 사용할 폴더를 만들겠습니다.
+ 저는 D드라이브 에다가 GIT으로 사용할 폴더를 만들겠습니다. <br> <br>
  1. cd /D <br>
  2. mkdir GIT <br>
- 3. cd GIT <br>
+ 3. cd GIT <br> <br>
+ 순서대로 입력해 보세요.
 </div>
 <br>
 <br>
 <br>
 <br>
+힘드니까 추후에 더 적도록 하겠습니다;;;
 
 
 <div>
