@@ -7,14 +7,9 @@ date: 2018-04-30  +0200
 ---
 
 안녕하세요 곽민우입니다.
-
 오늘은 최대공약수 알고리즘을 해보겠습니다~
 
-
-
 #최대공약수 정의
-
-
 
 >최대공약수(最大公約數)란, 0이 아닌 두 정수나 다항식의 공통되는 약수 중에서 가장 큰 수를 말한다. 두 정수 a와 b의 최대공약수를 기호로 gcd(a,b)로 표기한다. (위키피디아 발췌)
 
@@ -26,53 +21,4 @@ i로 나누어졌을때, 0 이면!
 ```javascript
 if(num1%i==0 && num2%i==0) {
 	gcd = gcd*i;
-}
-```
-<br>
-<br>
-<br>
-<br>
-
-<div align="center">
-    <H1> #2. 거두절미하고 깃을 사용해보자-다운로드 </H1><br>
-    기본적으로 git이라고 구글에 검색하면<br>
-    사이트 하나가 나옵니다 (git-scm.com)<br><br>
-    <a href="../img/git/캡처.PNG">
-    <img src="../img/git/캡처.PNG" style="width: 500px" alt="../img/git/캡처.PNG"><br>[이미지1 - GIT 홈페이지]<br><br>
-    </a>
-    설치 파일을 운영체제에 맞게 받으시면 되구요<br>
-    다운 받으시고 추가 설정 하실 필요 없이<br>
-    next next 신공을 발휘하여 설치합니다<br><br>
-    
-    그럼 GIT BASH 라는 것이 생성됐을겁니다. <br><br>
-    <a href="../img/git/bash.PNG">
-    <img src="../img/git/bash.PNG" style="width: 500px" alt=""><br>[이미지2 - GIT BASH]<br><br>
-    </a>
-    실행하시면 나오는 화면인데, 우리는 이 화면으로<br>
-    설정과 제어를 할 것입니다.<br>
-    친숙해지기 ㄱㄱ링?<br>
-    설치 완료! <br>
-</div>
-<br>
-<br>
-<br>
-<br>
-
-
-<div align = "center">
- <H1> #3. GIT 저장소를 만들고 GIThub에 연동하자 </H1>
- 저는 D드라이브 에다가 GIT으로 사용할 폴더를 만들겠습니다. <br> <br>
- 1. cd /D <br>
- 2. mkdir GIT <br>
- 3. cd GIT <br> <br>
- 순서대로 입력해 보세요.
-</div>
-<br>
-<br>
-<br>
-<br>
-힘드니까 추후에 더 적도록 하겠습니다;;;
-
-
-<div>
-
+}```
